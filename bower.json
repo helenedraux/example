@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "homepage": "https://github.com/helenedraux/example",
+  "authors": [
+    "Helene <helene.draux@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "^3.3.1",
+    "jquery": "^3.1.1"
+  }
+}
